@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  OpenCVApplication.cpp
+OpenCVApplication.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+OpenCVApplication.cpp(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  common.cpp
+  Generating code
+  2 of 178 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCVApplication.vcxproj -> D:\UTCN\An 3\Semestrul 2\IP\project\x64\Release\OpenCVApplication.exe
+  OpenCVApplication.vcxproj -> D:\UTCN\An 3\Semestrul 2\IP\project\x64\Release\OpenCVApplication.pdb (Full PDB)
+  OpenCV\dll\Release\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Release\opencv_world310.dll
+          2 file(s) copied.

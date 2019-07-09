@@ -1,0 +1,42 @@
+﻿  OpenCVApplication.cpp
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(501): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(503): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(600): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(601): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(602): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(609): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(616): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(634): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(658): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(659): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(660): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(746): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(765): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(813): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(814): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(818): warning C4101: 'vec2': unreferenced local variable
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(863): warning C4101: 'neighbors': unreferenced local variable
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(903): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(928): warning C4804: '<': unsafe use of type 'bool' in operation
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(911): warning C4101: 'neighbors': unreferenced local variable
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(1354): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(1455): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(1488): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(1598): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2029): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2046): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2048): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2061): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2091): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2092): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2103): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2105): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2118): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2206): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2317): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\utcn\an 3\semestrul 2\ip\project\opencvapplication.cpp(2284): warning C4715: 'gradientMagnitude': not all control paths return a value
+  OpenCVApplication.vcxproj -> D:\UTCN\An 3\Semestrul 2\IP\project\x64\Debug\OpenCVApplication.exe
+  OpenCVApplication.vcxproj -> D:\UTCN\An 3\Semestrul 2\IP\project\x64\Debug\OpenCVApplication.pdb (Full PDB)
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.

@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+  OpenCVApplication.cpp
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(494): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(496): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(582): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(583): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(584): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(591): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(598): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(616): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(636): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(637): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(638): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(744): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(763): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(811): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(812): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\wtp\desktop\utcn\an 3\semestrul 2\ip\opencvapplication-vs2013_ocv2413_basic\opencvapplication.cpp(816): warning C4101: 'vec2': unreferenced local variable
+  common.cpp
+  Generating Code...
+  OpenCVApplication.vcxproj -> C:\Users\Wtp\Desktop\UTCN\An 3\Semestrul 2\IP\OpenCVApplication-VS2013_OCV2413_basic\Debug\OpenCVApplication.exe
+  OpenCVApplication.vcxproj -> C:\Users\Wtp\Desktop\UTCN\An 3\Semestrul 2\IP\OpenCVApplication-VS2013_OCV2413_basic\Debug\OpenCVApplication.pdb (Full PDB)
+  OpenCV\dll\Debug\opencv_calib3d2413d.dll
+  OpenCV\dll\Debug\opencv_contrib2413d.dll
+  OpenCV\dll\Debug\opencv_core2413d.dll
+  OpenCV\dll\Debug\opencv_features2d2413d.dll
+  OpenCV\dll\Debug\opencv_ffmpeg2413.dll
+  OpenCV\dll\Debug\opencv_flann2413d.dll
+  OpenCV\dll\Debug\opencv_gpu2413d.dll
+  OpenCV\dll\Debug\opencv_highgui2413d.dll
+  OpenCV\dll\Debug\opencv_imgproc2413d.dll
+  OpenCV\dll\Debug\opencv_legacy2413d.dll
+  OpenCV\dll\Debug\opencv_ml2413d.dll
+  OpenCV\dll\Debug\opencv_nonfree2413d.dll
+  OpenCV\dll\Debug\opencv_objdetect2413d.dll
+  OpenCV\dll\Debug\opencv_ocl2413d.dll
+  OpenCV\dll\Debug\opencv_photo2413d.dll
+  OpenCV\dll\Debug\opencv_stitching2413d.dll
+  OpenCV\dll\Debug\opencv_superres2413d.dll
+  OpenCV\dll\Debug\opencv_video2413d.dll
+  OpenCV\dll\Debug\opencv_videostab2413d.dll
+         19 file(s) copied.

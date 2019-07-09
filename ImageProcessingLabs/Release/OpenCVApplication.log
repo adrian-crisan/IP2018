@@ -1,0 +1,65 @@
+﻿  stdafx.cpp
+  OpenCVApplication.cpp
+OpenCVApplication.cpp(501): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(503): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(600): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(601): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(602): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(609): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(616): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(634): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(658): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(659): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(660): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(746): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(765): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(813): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(814): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(818): warning C4101: 'vec2': unreferenced local variable
+OpenCVApplication.cpp(863): warning C4101: 'neighbors': unreferenced local variable
+OpenCVApplication.cpp(903): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+OpenCVApplication.cpp(928): warning C4804: '<': unsafe use of type 'bool' in operation
+OpenCVApplication.cpp(911): warning C4101: 'neighbors': unreferenced local variable
+OpenCVApplication.cpp(1354): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+OpenCVApplication.cpp(1455): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+OpenCVApplication.cpp(1488): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+OpenCVApplication.cpp(1598): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(2029): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(2046): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(2048): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(2061): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(2091): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(2092): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+OpenCVApplication.cpp(2103): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(2105): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+OpenCVApplication.cpp(2118): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(2206): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+OpenCVApplication.cpp(2317): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  common.cpp
+  Generating code
+  0 of 342 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCVApplication.vcxproj -> D:\UTCN\An 3\Semestrul 2\IP\OpenCVApplication-VS2013_OCV2413_basic\Release\OpenCVApplication.exe
+  OpenCVApplication.vcxproj -> D:\UTCN\An 3\Semestrul 2\IP\OpenCVApplication-VS2013_OCV2413_basic\Release\OpenCVApplication.pdb (Full PDB)
+  OpenCV\dll\Release\opencv_calib3d2413.dll
+  OpenCV\dll\Release\opencv_contrib2413.dll
+  OpenCV\dll\Release\opencv_core2413.dll
+  OpenCV\dll\Release\opencv_features2d2413.dll
+  OpenCV\dll\Release\opencv_ffmpeg2413.dll
+  OpenCV\dll\Release\opencv_flann2413.dll
+  OpenCV\dll\Release\opencv_gpu2413.dll
+  OpenCV\dll\Release\opencv_highgui2413.dll
+  OpenCV\dll\Release\opencv_imgproc2413.dll
+  OpenCV\dll\Release\opencv_legacy2413.dll
+  OpenCV\dll\Release\opencv_ml2413.dll
+  OpenCV\dll\Release\opencv_nonfree2413.dll
+  OpenCV\dll\Release\opencv_objdetect2413.dll
+  OpenCV\dll\Release\opencv_ocl2413.dll
+  OpenCV\dll\Release\opencv_photo2413.dll
+  OpenCV\dll\Release\opencv_stitching2413.dll
+  OpenCV\dll\Release\opencv_superres2413.dll
+  OpenCV\dll\Release\opencv_video2413.dll
+  OpenCV\dll\Release\opencv_videostab2413.dll
+         19 file(s) copied.
